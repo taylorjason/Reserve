@@ -5,20 +5,20 @@
 
 >2.4.3. The mandatory promotion board considers eligible officers for promotion to the grades of captain through lieutenant colonel $soon enough so that if selected, the IPZ promotion can occur when  they complete the time in grade as listed in Table 2.1.
 
-![[assets/Promotion Eligibility Criteria.png]]
+![Promotion Eligibility Criteria.png]
 
-![[assets/Continuation Board.png]]
+![Continuation Board.png]
 
-![[assets/Failure of Selection for Promotion.png]]
+![Failure of Selection for Promotion.png]
 
 
 >5.11. **Effect of Twice Failing Promotion to Captain, Major, or Lieutenant Colonel.** HQ ARPC reassigns twice-deferred officers according to AFI 36-2115, Assignments Within the Reserve Components.  For twice deferred ANGUS officers, refer to NGR (AF) 36-4 for separation procedures. ANG State Headquarters separates and reassigns twice-deferred officers according to AFI 36-3209, Separation Procedures for United States Air Force Reserve Members.
 >
 > 5.11.3. A major, twice deferred for promotion to lieutenant colonel and not in a continued status, will be removed from the RASL on the first day of the month after the month the officer completes 20  years of commissioned service.
 
-![[assets/Effects of Nonselection for Lt Col.png]]
+![Effects of Nonselection for Lt Col.png]
 [AFI 36-2110](https://static.e-publishing.af.mil/production/1/af_a1/publication/dafi36-2110/dafi36-2110.pdf)
-![[assets/ARPC Discharge for Twice Deferred Major.png]]
+![ARPC Discharge for Twice Deferred Major.png]
 
 [US Title 10 14701](http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14701&num=0&edition=prelim)
 
