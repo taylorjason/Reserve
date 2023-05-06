@@ -16,9 +16,9 @@
 
     5.11.3. A major, twice deferred for promotion to lieutenant colonel and not in a continued status, will be removed from the RASL on the first day of the month after the month the officer completes 20  years of commissioned service.
 
-![Effects of Nonselection for Lt Col.png](Effects of Nonselection for Lt Col.png)
+![Effects of Nonselection for Lt Col.png](/Effects of Nonselection for Lt Col.png)
 [AFI 36-2110](https://static.e-publishing.af.mil/production/1/af_a1/publication/dafi36-2110/dafi36-2110.pdf)
-![ARPC Discharge for Twice Deferred Major.png](ARPC Discharge for Twice Deferred Major.png)
+![ARPC Discharge for Twice Deferred Major.png](/ARPC Discharge for Twice Deferred Major.png)
 
 [US Title 10 14701](http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14701&num=0&edition=prelim)
 
