@@ -1,2 +1,4 @@
 # remote-theme: daattali/beautiful-jekyll@5.0.0
-theme: dinky
+remote_theme: pages-themes/dinky@v0.2.0
+plugins:
+- jekyll-remote-theme 
